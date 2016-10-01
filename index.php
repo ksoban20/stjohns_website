@@ -17,13 +17,53 @@
 
 	<!-- prelude starts -->
 	<section class="prelude">
-		prelude
+		<div class="prelude-content">
+			<div class="heading">Saint Johns Academy School</div>
+			<div class="sub-heading">
+				The School has a provision for the education from the playway to 12th
+			</div>
+		</div>
 	</section>
 	<!-- prelude ends -->
 
 	<!-- quick-ref starts -->
 	<section class="quick-ref">
-		quick-ref
+		<div class="card">
+			<div class="image-wrapper">
+				<i class="fa fa-user"></i>
+			</div>
+			<div class="content-wrapper">
+				<div class="heading">Quality Education</div>
+				<div class="content">The School has a provision for the education from the playway to 12th</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="image-wrapper">
+				<i class="fa fa-user"></i>
+			</div>
+			<div class="content-wrapper">
+				<div class="heading">Quality Education</div>
+				<div class="content">The School has a provision for the education from the playway to 12th</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="image-wrapper">
+				<i class="fa fa-user"></i>
+			</div>
+			<div class="content-wrapper">
+				<div class="heading">Quality Education</div>
+				<div class="content">The School has a provision for the education from the playway to 12th</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="image-wrapper">
+				<i class="fa fa-user"></i>
+			</div>
+			<div class="content-wrapper">
+				<div class="heading">Quality Education</div>
+				<div class="content">The School has a provision for the education from the playway to 12th</div>
+			</div>
+		</div>
 	</section>
 	<!-- quick-ref ends -->
 

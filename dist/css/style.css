@@ -14,6 +14,7 @@ html,body{
 	padding:0;
 	width:100%;
 	background-color: #fff;
+	font-family: "Raleway" sans-serif!important;
 }
 header{
 	margin: 0;
@@ -60,13 +61,59 @@ header .logo,header .menu{
 .prelude{
 	height: 35%;
 	background-color: #fff;
+	text-align: center;
+	padding:5%;
+}
+.prelude .heading{
+	color:#cd2122;
+	font-size: 2.5em;
+}
+.prelude .sub-heading{
+	color:#7b7b7b;
+	font-size: 1.5em;
 }
 /*prelude ends*/
+
+/*quick reference starts*/
 .quick-ref{
 	height:65%;
 	background-color: #ededed;
+	padding-top: 3%;
+	padding-left:5%;
 }
-
+.card{
+	background-color: #fff;
+	height: 90%;
+	width:20%;
+	margin-right:5%;
+	float: left;
+	padding:1.5% 1%;
+}
+.card .image-wrapper{
+	text-align: center;
+	height:50%;
+}
+.card i{
+	background-color: #cd2122;
+	color:#fff;
+	border-radius: 200px;
+	height:120px;
+	width:120px;
+	text-align: center;
+	padding:8%;
+	font-size: 6em;
+}
+.content-wrapper{
+	text-align: center;
+}
+.content-wrapper .heading{
+	font-size: 1.5em;
+	color:#212121;
+}
+.content-wrapper .content{
+	color:#7b7b7b;
+}
+/*quick reference ends*/
 /*events starts*/
 .events{
 	height:90%;
