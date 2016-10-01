@@ -114,14 +114,89 @@ header .logo,header .menu{
 	color:#7b7b7b;
 }
 /*quick reference ends*/
+
+
 /*events starts*/
 .events{
-	height:90%;
-	background-color: red;
+	min-height:86%;
+
+	padding-left:5%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: #fff;
+}
+.events:before{
+	display: table;
+	content:" ";
+}
+.events:after{
+	display: table;
+	clear:both;
+	content:" ";
+}
+.events .heading ,.events .sub-heading{
+	text-align: center;
+}
+.events .heading{
+	font-size: 3em;
+	color:#cd2122;
+}
+.events .sub-heading{
+	font-size: 1.5em;
+	color:#7b7b7b;
+}
+.events .notification-stack{
+	background-color: purple;
+	margin-top: 4%;
+}
+.events .stack{
+	float: left;
+	width:25%;
+	margin-right: 5%;
+	background-color: #ededed;
+	height:300px;
+	padding: 1%;
+	margin-bottom:3%;
+
 }
 
+.events .date{
+	width :30%;
+	float: left;
+	color:#cd2122;
+	height: 100%;
+	text-align: center;
+}
+.events .content{
+	padding: 5%;
+
+	float:left;
+	width:70%;
+	border-left:1px solid #333;
+	height: 100%;
+
+}
+.date-wrapper{
+	display: block;
+	width:100%;
+}
+.date-wrapper:first-child{
+	font-size: 3em;
+}
+.date-wrapper:not(:first-child){
+	font-size: 1.5em;
+}
+.stack .content-heading{
+	font-size: 1.6em;
+	height:25%;
+	overflow: hidden;
+}
+.stack .content-text{
+	margin-top: 5%;
+	font-size: 1.2em;
+}
 /*events ends*/
 .query-bar{
-	height:10%;
+	height:14%;
 	background-color: green;
 }
