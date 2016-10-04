@@ -1,10 +1,6 @@
 <section class="query-bar">
-	<div class="query-bar-1">
-		<h3 class="query-bar-heading">
-			FOR FURTHER QUERIES YOU CAN CONTACT US.
-		</h3>
-		<button class="query-bar-button">
-			Visit us		
-		</button>
-	</div>
+		<div class="query-content">
+			<div class="query-heading">For further queries you can contact us.</div>
+			<a href="#"><div class="query-button">Visit us</div></a>
+		</div> 
 </section>
