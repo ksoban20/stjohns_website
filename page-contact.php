@@ -1,13 +1,9 @@
-<html>
-<head>
-	<title>st johns academy</title>
-	<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
-	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="bower_components/font-awesome/css/font-awesome.min.css" />
-	<link rel="stylesheet" href="dist/css/style.css" />
-</head>
-<body>
-	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	
+	<!--html head starts -->
+
+	<?php include_once('head.php') ?>
+	
+	<!--html head ends -->
 	
 	<!-- header starts -->
 
@@ -57,6 +53,12 @@
 		</div>
 	</div>
 	<!-- Contact Section Ends -->
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.6025850816513!2d81.88188131501326!3d25.384632483809483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd766ab7f8948067b!2sSt.John&#39;s+Co+Ed+School!5e0!3m2!1sen!2sus!4v1475589451266" width="1340" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+	<?php include_once('footer.php') ?>
+	
+
 
 </body>
 </head>

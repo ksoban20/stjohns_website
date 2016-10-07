@@ -1,13 +1,9 @@
-<html>
-<head>
-	<title>st johns academy</title>
-	<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
-	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="bower_components/font-awesome/css/font-awesome.min.css" />
-	<link rel="stylesheet" href="dist/css/style.css" />
-</head>
-<body>
-	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	
+	<!--html head starts -->
+
+	<?php include_once('head.php') ?>
+	
+	<!--html head ends -->
 	
 	<!-- header starts -->
 
@@ -55,20 +51,16 @@
 		<div class="about-container">
 			<div class="heading-main">About School</div>
 			<div class="about-card">
-				<div class="heading">History</div>
-				<div class="content">St. Johns Acdemy was
-				born out by the ideology that children must
-				be given an environment that makes them to come school everyday. The school was founded in 2000.<br /> St. Johns Acdemy was
-				born out by the ideology that children must
-				be given an environment that makes them to come school everyday. The school was founded in 2000.</div>
+				<div class="heading">Our Goal</div>
+				<div class="content">Curiosity, quest for knowledge, objectivity, honesty, truthfulness, courage to question, systematic reasoning, acceptance after proof/verification, open mindedness, search for perfection and team sprit are some of the basic values related to learning.<br />We at St. John's School have made it our goal to inculcate knowledge in to minds of our pupils. Our objective use in a wide variety of circumstances.</div>
 			</div>
 			<div class="about-card">
-				<div class="heading">Environment</div>
-				<div class="content">The school preaches and practices the theory of universal Brotherhood and Sisterhood to its students studying in a strict and disciplined environment. <br /> The school preaches and practices the theory of universal Brotherhood and Sisterhood to its students studying in a strict and disciplined environment.</div>
+				<div class="heading">Teaching</div>
+				<div class="content">Our method is calculated to arrest attentions and to fertile imagination. But there is no avoidance of systematic work. The pupil is led through his new sense of purpose, to translate his interest in to experience and skill by extensive  practice. In this way we have avoided barren academic approach and yet build a varied, graduated and thoroughly comprehensive course that can be worked straight.</div>
 			</div>
 			<div class="about-card">
-				<div class="heading">Campus</div>
-				<div class="content">Our campus is child friendly centre that encourage students to enjoy learning and explore thier own uniqueness. <br /> Our campus is child friendly centre that encourage students to enjoy learning and explore thier own uniqueness. <br /> Our campus is child friendly centre that encourage students to enjoy learning and explore thier own uniqueness. </div>
+				<div class="heading">Our Attempt</div>
+				<div class="content">The stress is on the development of an attitude that will make the student equally excited about everything, from Newton to Einstein and from Robert Brown to Tennyson.  From the light switch to the nuclear reactor and carbon dating to the essay of FIRAQ. We intend and attempt to impart knowledge in a planned manner</div>
 			</div>			
 	</div>
 

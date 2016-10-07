@@ -1,4 +1,4 @@
-<section class="quick-ref">
+<div class="quick-ref">
 		<div class="card">
 			<div class="image-wrapper"><i class="fa  fa-book"></i></div>
 			<div class="content-wrapper">
@@ -27,4 +27,4 @@
 				<div class="content">The School has a provision for the education from the playway to 12th</div>
 			</div>
 		</div>
-</section>
+</div>

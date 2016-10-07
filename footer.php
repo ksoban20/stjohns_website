@@ -4,21 +4,26 @@
 	</div>
 	<div class="footer">
 		
-		<div class="footer-wrapper">
+		<div class="wrapper-1">
 			<div class="footer-heading">About School</div>
-			<div class="footer-content"><strong class="footer-strong">Saint Johns Academy</strong> is affiliated to Central Board of Secondary Education New Delhi. The academic year is as per the CCE norms of CBSE.</div>		
-		
-		</div>
-
-		<div class="footer-wrapper">
-			<div class="footer-heading">Pages </div>
-			<div class="footer-content">
-				<ul>
+			<div class="footer-content"><strong class="footer-strong">Saint Johns School</strong> formerly Epiphany English Junior High School is a registered and recognized English Medium School for boys and girls from Nursery to VIII. It is managed by St. John's Educational Society.
+				<ul >
 					<li>Home</li>
 					<li>About</li>
-					<li>Academics</li>
-					<li>Portfolio</li>
-					<li>Contact us</li>		
+				</ul>
+			</div>		
+
+		</div>
+
+		<div class="footer-wrapper wrapper-2">
+			<div class="footer-heading">Pages </div>
+			<div class="footer-content">
+				<ul class="pages-list">
+					<li><a href="index.php">Home</a></li>
+					<li><a href="page-about.php">About</a></li>
+					<li><a href="#">Acedemic</a></li>
+					<li><a href="#">Gallery</a></li>
+					<li><a href="page-contact.php">Contact</a></li>	
 				</ul>
 			</div>
 		</div>
@@ -35,7 +40,7 @@
 				<div class="footer-contact-1">
 					<div class="footer-text-1">+91-9999999999</div>
 					<div class="footer-text-1">abc@example.com</div>
-					<div class="footer-text-1">123/1, Near Crossing <br /> Karchana, Naini <br /> Allahabad - 211010</div>
+					<div class="footer-text-1">123/1, GTB Nagar <br /> Kareli <br /> Allahabad - 211010</div>
 				</div>				
 			</div>
 		</div>
