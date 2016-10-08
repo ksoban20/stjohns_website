@@ -1,8 +1,7 @@
 
-
 @media screen and (max-width:980px){
 	header{height:10%;}
-	.menu{padding-left:4%;}
+	/*.menu{padding-left:4%;}*/
 	.button-1 {
     width: 15%;
     padding-top: 8px;}
@@ -13,6 +12,7 @@
 }
 
 
+/*@ media screen resolution width 360px height 640px*/
 	
 @media screen and (max-width:360px){
 
@@ -66,7 +66,7 @@
     width: 45%;
     margin-right: 5%;
     margin-top: 5%;
-    overflow: scroll;}
+    }
 	.card i {
     padding: 12%;}
 	
@@ -232,3 +232,72 @@
 	padding-top: 1%;
 	margin-top: auto;
 }
+}
+
+
+/*@ media screen resolution width 360px height 640px*/
+
+@media screen and (max-width: 480px){
+
+    header{
+        height: 30%;
+    }
+
+    .menu{
+        padding-left: auto;
+    }
+
+    .slider{
+        height: 33.6%;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .slider-content{
+        font-size: 1em;
+    }
+    
+    .slider-heading{
+        width: 100%;
+        font-size: 2em;
+    }
+
+    .button-1, .button-2{
+        width: 25%;
+        height: 35px;
+        padding-top: 1.8%;
+        font-size: 1em;
+    }
+    
+    .button-2{
+        margin-left: 5%;
+    }
+
+    .prelude{
+        height: 19%;
+    }
+    
+    .prelude .heading{
+        font-size: 2em;
+    }
+
+    .prelude .sub-heading{
+        font-size: 1.3em;
+    }
+
+    .quick-ref{
+        overflow: scroll;
+    }
+
+    .card{
+        height: auto;
+        width: 45%;
+        margin-right: 5%;
+        margin-top: 5%;
+    }
+
+    .card .image-wrapper{
+        height: 35%;
+    }
+
+}    
