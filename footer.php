@@ -6,10 +6,10 @@
 		
 		<div class="wrapper-1">
 			<div class="footer-heading">About School</div>
-			<div class="footer-content"><strong class="footer-strong">Saint Johns School</strong> formerly Epiphany English Junior High School is a registered and recognized English Medium School for boys and girls from Nursery to VIII. It is managed by St. John's Educational Society.
+			<div class="footer-content"><strong class="footer-strong">Saint Johns School</strong> formerly Epiphany English Junior High School is a registered and recognized English Medium School for boys and girls from Nursery to VIII.<br /> It is managed by St. John's Educational Society.
 				<ul >
-					<li>Home</li>
-					<li>About</li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="page-about.php">About</a></li>
 				</ul>
 			</div>		
 
@@ -40,7 +40,7 @@
 				<div class="footer-contact-1">
 					<div class="footer-text-1">+91-9999999999</div>
 					<div class="footer-text-1">abc@example.com</div>
-					<div class="footer-text-1">123/1, GTB Nagar <br /> Kareli <br /> Allahabad - 211010</div>
+					<div class="footer-text-1">123/1, Minhajpur <br /> Allahabad - 211003</div>
 				</div>				
 			</div>
 		</div>

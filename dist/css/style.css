@@ -32,7 +32,6 @@ header .logo,header .menu{
 }
 .logo{
 	width:30%;
-	/*background-color: yellow;*/
 }
 .menu{
 	width:70%;
@@ -101,6 +100,11 @@ header .logo,header .menu{
 	text-align: center;
 	background-color: #cd2122;
 }
+
+.button-1 a, .button-2 a{
+	color:#FFF;
+}
+
 /*slider section ends*/
 
 /*prelude starts*/
@@ -116,6 +120,7 @@ header .logo,header .menu{
 	color:#cd2122;
 	font-size: 2.5em;
 }
+
 .prelude .sub-heading{
 	color:#7b7b7b;
 	font-size: 1.5em;
@@ -138,7 +143,12 @@ header .logo,header .menu{
 	margin-right:5%;
 	float: left;
 	padding:1.5% 1%;
+	/*transition:.8s;*/
 }
+
+/*.card:hover{
+	margin-top: 2.5%;
+}*/
 .card .image-wrapper{
 	text-align: center;
 	height:50%;
@@ -350,6 +360,10 @@ header .logo,header .menu{
 	list-style:square url(images/png/bullet-2.png);
 	padding-top: 10%;
 	padding-bottom: 0%;
+}
+
+.wrapper-1 a{
+	color: #7b7b7b;
 }
 .wrapper-2{
 	float: left;
@@ -622,6 +636,7 @@ header .logo,header .menu{
 	float: left;
 	height: 80%;
 	width: 95%;
+	padding-top: 5%;
 	font-family: 'Raleway', sans-serif;
 	
 }

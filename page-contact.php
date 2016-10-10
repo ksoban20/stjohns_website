@@ -53,11 +53,17 @@
 		</div>
 	</div>
 	<!-- Contact Section Ends -->
+
+	<!-- google maps area starts -->
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.6025850816513!2d81.88188131501326!3d25.384632483809483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd766ab7f8948067b!2sSt.John&#39;s+Co+Ed+School!5e0!3m2!1sen!2sus!4v1475589451266" width="1340" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+	<!-- google maps area ends -->
 
+	<!-- footer starts -->
+	
 	<?php include_once('footer.php') ?>
 	
+	<!-- footer ends -->
 
 
 </body>
