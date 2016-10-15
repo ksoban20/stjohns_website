@@ -1,6 +1,10 @@
+	
+	<!--html head starts -->
+
 	<?php include_once('head.php') ?>
-	
-	
+
+	<!--html head ends -->
+
 	<!-- header starts -->
 
 	<?php include_once('header.php') ?>

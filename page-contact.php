@@ -59,6 +59,7 @@
 
 	<!-- google maps area ends -->
 
+
 	<!-- footer starts -->
 	
 	<?php include_once('footer.php') ?>
