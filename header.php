@@ -1,6 +1,6 @@
 <header>
 	<div class="logo">
-		<img src="images/logo/logo.png" height="80px" width="80px" />
+		ST. JOHN'S SCHOOL
 	</div>
 	<nav class="menu">
 		<ul>
